@@ -1,0 +1,41 @@
+[
+    {
+        "name": "Journey Master",
+        "description": "Journey Master is a travel companion web app where users can add, manage, and delete tourist spots to create personalized travel experiences.",
+        "technologies": ["React.js", "Node.js", "MongoDB", "Tailwind CSS", "Firebase"],
+        "link": "https://journeymaster.netlify.app/",
+        "client": "https://github.com/mirhimel012/Journey-Master-Client",
+        "server": "https://github.com/mirhimel012/Journey-Master-Server",
+        "image": "https://i.ibb.co/wZSYZWb6/journey-master.png",
+        "features": [
+            "Users can add, manage, and delete tourist spots",
+            "Interactive UI for curating personalized travel experiences"
+        ]
+    },
+    {
+        "name": "Fantasy Home",
+        "description": "Fantasy Home allows users to explore luxury property listings, enhanced with search functionality and immersive features like maps and virtual tours.",
+        "technologies": ["React.js", "Firebase", "Tailwind CSS"],
+        "link": "https://fantasyhome.netlify.app/",
+        "client": "https://github.com/mirhimel012/Fantasy-Home",
+        "server": "https://github.com/mirhimel012/Fantasy-Home",
+        "image": "https://i.ibb.co/V5pSh8D/fantasy-home.png",
+        "features": [
+            "Browse luxury property listings with search functionality",
+            "Interactive maps and virtual tours for immersive experiences"
+        ]
+    },
+    {
+        "name": "Spellbound Library",
+        "description": "Spellbound Library is a curated digital library platform with genre filters and an intuitive book management system for readers.",
+        "technologies": ["React.js", "Node.js", "MongoDB", "CSS3"],
+        "link": "https://spellboundlibrary.netlify.app/",
+        "client": "https://github.com/mirhimel012/Spellbound-Library-Client",
+        "server": "https://github.com/mirhimel012/Spellbound-Library-Server",
+        "image": "https://i.ibb.co/JRNm7MVx/spellbound-libeary.png",
+        "features": [
+            "Curated book collection with genre filters",
+            "User-friendly library management system"
+        ]
+    }
+]
