@@ -1,5 +1,5 @@
-
 import { Outlet } from "react-router-dom";
+import ScrollToTop from "../components/ScrollToTop";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 
@@ -11,6 +11,9 @@ export default function MainLayout() {
         aria-hidden="true"
         className="pointer-events-none absolute left-1/2 top-0 -z-0 h-96 w-96 -translate-x-1/2 rounded-full bg-violet-600/15 blur-[120px]"
       />
+
+      {/* Scroll to Top on Route Change */}
+      <ScrollToTop />
 
       {/* Navbar */}
       <Navbar />
