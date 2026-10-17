@@ -100,3 +100,24 @@ a {
     transition-duration: 0.01ms !important;
   }
 }
+
+
+/* 3D book reader */
+.book-flip {
+  margin-inline: auto;
+}
+
+.book-flip .stf__parent {
+  margin-inline: auto;
+}
+
+.book-flip .stf__item {
+  overflow: hidden;
+  background: #f5efe4;
+  box-shadow: 0 8px 25px rgb(0 0 0 / 18%);
+}
+
+.book-flip img {
+  -webkit-user-drag: none;
+  user-select: none;
+}
